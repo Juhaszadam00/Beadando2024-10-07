@@ -1,0 +1,7 @@
+C:\Users\Ádám\Desktop\Beadando\JA_Beadando\bin\Debug\JA_Beadando.exe.config
+C:\Users\Ádám\Desktop\Beadando\JA_Beadando\bin\Debug\JA_Beadando.exe
+C:\Users\Ádám\Desktop\Beadando\JA_Beadando\bin\Debug\JA_Beadando.pdb
+C:\Users\Ádám\Desktop\Beadando\JA_Beadando\obj\Debug\JA_Beadando.csproj.AssemblyReference.cache
+C:\Users\Ádám\Desktop\Beadando\JA_Beadando\obj\Debug\JA_Beadando.csproj.CoreCompileInputs.cache
+C:\Users\Ádám\Desktop\Beadando\JA_Beadando\obj\Debug\JA_Beadando.exe
+C:\Users\Ádám\Desktop\Beadando\JA_Beadando\obj\Debug\JA_Beadando.pdb
